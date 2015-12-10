@@ -1,3 +1,4 @@
+[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
 
 This Docker image helps you to run Spark (on Docker) with the following installed:
 
