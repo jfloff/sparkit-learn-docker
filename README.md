@@ -1,10 +1,4 @@
-# alpine-python
-
-[![Docker Stars](https://img.shields.io/docker/stars/jfloff/sparkit-learn-docker.svg)][hub]
-[![Docker Pulls](https://img.shields.io/docker/pulls/jfloff/sparkit-learn-docker.svg)][hub]
-[![Docker Layers](https://badge.imagelayers.io/jfloff/sparkit-learn-docker:latest.svg)](https://imagelayers.io/?images=jfloff/sparkit-learn-docker:latest 'Get your own badge on imagelayers.io')
-
-[hub]: https://hub.docker.com/r/jfloff/sparkit-learn-docker/
+# sparkit-learn-docker
 
 Docker image to run [sparkit-learn](https://github.com/lensacom/sparkit-learn). This includes installing `spark`, `pyspark`, and respective dependencies.
 
